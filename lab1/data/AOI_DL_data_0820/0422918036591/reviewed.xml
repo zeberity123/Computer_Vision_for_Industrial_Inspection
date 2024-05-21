@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<InspData>
+
+  <ConfigInfo>
+    <Inspector>MV-6DL</Inspector>
+    <DefectPath>D:/PcbModel</DefectPath>
+    <IsSaveOverKill>TRUE</IsSaveOverKill>
+    <UserID>master</UserID>
+  </ConfigInfo>
+
+  <BoardInfo>
+    <Model>12113504-00-A0-B</Model>
+    <SerialNo>0422918036591</SerialNo>
+    <RepSerialNo>0422918036591</RepSerialNo>
+    <BoardSide>0</BoardSide>
+    <CarrierID>None</CarrierID>
+    <LotID/>
+    <ComputerName>MV-6DLOMNI</ComputerName>
+    <BoardCount>66</BoardCount>
+    <ModuleCount>2</ModuleCount>
+    <InspStartTime>20180727;111130</InspStartTime>
+    <IsGood>1</IsGood>
+    <IsInspectGood>0</IsInspectGood>
+  </BoardInfo>
+
+  <DefectInfo>
+    <InspStartTime>2018-07-27 11:11:30</InspStartTime>
+    <InspEndTime>2018-07-27 11:11:33</InspEndTime>
+    <OperatorEndTime>2018-07-27 11:11:36</OperatorEndTime>
+    <RepairEndTime>2018-07-27 11:11:58</RepairEndTime>
+    <InspResult>1</InspResult>
+    <BoardSide>0</BoardSide>
+  </DefectInfo>
+
+  <DefectCount>
+    <Mounting>0</Mounting>
+    <Solder>0</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>2</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ChipColorInsp>0</ChipColorInsp>
+    <ICSolder>0</ICSolder>
+    <ContoursFind>0</ContoursFind>
+  </DefectCount>
+
+  <InspCount>
+    <Part>257</Part>
+    <Frame>5</Frame>
+    <Window>1169</Window>
+    <Mounting>322</Mounting>
+    <Solder>509</Solder>
+    <Bridge>32</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>218</Color>
+    <Height>88</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ChipColorInsp>0</ChipColorInsp>
+    <ICSolder>0</ICSolder>
+    <ContoursFind>0</ContoursFind>
+    <PinHole>0</PinHole>
+    <SkipInfo>0</SkipInfo>
+  </InspCount>
+
+  <ModuleResult>
+    <Module IsSkiped="0" ModuleId="0" Result="0"/>
+  </ModuleResult>
+
+  <Defect>
+    <Overkill>1</Overkill>
+    <DefectTypeString>WrongPart</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>C205</RefId>
+    <FrameId>2</FrameId>
+    <WindowId>2</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>10536225-00</PartNumber>
+    <PartID>E1F821DD-6BE3-4d10-9387-0759660B813A</PartID>
+    <WindowType>8</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V04F2E2A0-CB74-4d40-9807-470994AF63ED</VirtualRefID>
+    <WindowRefID>_CLR_33_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <PartRect X1="1743" X2="1625" X3="1625" X4="1743" Y1="3274" Y2="3274" Y3="3219" Y4="3219"/>
+    <WindowRect X1="1690" X2="1675" X3="1675" X4="1690" Y1="3255" Y2="3255" Y3="3240" Y4="3240"/>
+    <FrameRect X1="447296" X2="486340" X3="486340" X4="447296" Y1="42175" Y2="42175" Y3="81265" Y4="81265"/>
+    <DefectRect X1="464067" X2="464210" X3="464210" X4="464067" Y1="48661" Y2="48661" Y3="48811" Y4="48811"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="2" Y="-7"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>180</WindowAngle>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>13</PassDefectType>
+    <PassDefect3DType/>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect>
+
+  <Defect>
+    <Overkill>1</Overkill>
+    <DefectTypeString>WrongPart</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>U509</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>3</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>11878685-00</PartNumber>
+    <PartID/>
+    <WindowType>8</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V6D31BEF3-4BEF-47a1-8468-3054D7A0967F</VirtualRefID>
+    <WindowRefID>_CLR_202_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <PartRect X1="793" X2="2261" X3="2261" X4="793" Y1="1404" Y2="1404" Y3="2520" Y4="2520"/>
+    <WindowRect X1="2125" X2="2158" X3="2158" X4="2125" Y1="1448" Y2="1448" Y3="1481" Y4="1481"/>
+    <FrameRect X1="389500" X2="428543" X3="428543" X4="389500" Y1="39039" Y2="39039" Y3="78129" Y4="78129"/>
+    <DefectRect X1="410755" X2="411083" X3="411083" X4="410755" Y1="63296" Y2="63296" Y3="63624" Y4="63624"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="0" Y="0"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>13</PassDefectType>
+    <PassDefect3DType/>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect>
+
+</InspData>

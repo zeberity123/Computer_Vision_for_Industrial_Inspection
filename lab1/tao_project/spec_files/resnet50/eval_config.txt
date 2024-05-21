@@ -1,0 +1,9 @@
+eval_config {
+  eval_dataset_path: "/workspace/tao-experiments/data/<<<<FIXME>>>>"
+  model_path: "/workspace/tao-experiments/classification/resnet50_40_epochs/weights/<<<<FIXME>>>>"
+  top_k: 1
+  batch_size: 32
+  n_workers: 8
+  enable_center_crop: False
+}
+##################################################

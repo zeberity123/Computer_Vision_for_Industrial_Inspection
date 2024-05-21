@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<InspData>
+
+  <ConfigInfo>
+    <Inspector>MV-6DL</Inspector>
+    <DefectPath>D:/PcbModel</DefectPath>
+    <IsSaveOverKill>TRUE</IsSaveOverKill>
+    <UserID>master</UserID>
+  </ConfigInfo>
+
+  <BoardInfo>
+    <Model>12113504-00-A0-B</Model>
+    <SerialNo>0423718049898</SerialNo>
+    <RepSerialNo>0423718049898</RepSerialNo>
+    <BoardSide>0</BoardSide>
+    <CarrierID>None</CarrierID>
+    <LotID/>
+    <ComputerName>MV-6DLOMNI</ComputerName>
+    <BoardCount>19416</BoardCount>
+    <ModuleCount>2</ModuleCount>
+    <InspStartTime>20180915;193825</InspStartTime>
+    <IsGood>1</IsGood>
+    <IsInspectGood>0</IsInspectGood>
+  </BoardInfo>
+
+  <DefectInfo>
+    <InspStartTime>2018-09-15 19:38:25</InspStartTime>
+    <InspEndTime>2018-09-15 19:38:36</InspEndTime>
+    <OperatorEndTime>2018-09-15 19:38:47</OperatorEndTime>
+    <RepairEndTime>2018-09-15 19:40:08</RepairEndTime>
+    <InspResult>1</InspResult>
+    <BoardSide>0</BoardSide>
+  </DefectInfo>
+
+  <DefectCount>
+    <Mounting>0</Mounting>
+    <Solder>0</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>0</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ChipColorInsp>0</ChipColorInsp>
+    <ICSolder>0</ICSolder>
+    <ContoursFind>0</ContoursFind>
+  </DefectCount>
+
+  <InspCount>
+    <Part>257</Part>
+    <Frame>5</Frame>
+    <Window>1132</Window>
+    <Mounting>319</Mounting>
+    <Solder>509</Solder>
+    <Bridge>32</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>182</Color>
+    <Height>90</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ChipColorInsp>0</ChipColorInsp>
+    <ICSolder>0</ICSolder>
+    <ContoursFind>0</ContoursFind>
+    <PinHole>0</PinHole>
+    <SkipInfo>0</SkipInfo>
+  </InspCount>
+
+  <ModuleResult>
+    <Module IsSkiped="0" ModuleId="0" Result="0"/>
+  </ModuleResult>
+
+  <Defect3D>
+    <Overkill>1</Overkill>
+    <DefectTypeString>LiftedLead</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>Q7</RefId>
+    <FrameId>1</FrameId>
+    <WindowId>2</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>11320511-00</PartNumber>
+    <PartID>9377F2E2-F9BB-4a4a-B53F-B91BCA4A5FD9</PartID>
+    <WindowType>20</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VBD90FC1C-C454-43c0-A97B-D0D6FA9866C5</VirtualRefID>
+    <WindowRefID>_BRG_52_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <DefectResultMsg>
+------------------ Criteria ------------------
+50um  &lt;  Lead Height  &lt;  300um
+----------------------------------------------
+Average Height : 263.81um( &lt; 260um )
+#
+Good Max of Devi. : 300.00um
+
+
+</DefectResultMsg>
+    <PartRect X1="3532" X2="3796" X3="3796" X4="3532" Y1="1980" Y2="1980" Y3="2438" Y4="2438"/>
+    <WindowRect X1="3548" X2="3790" X3="3790" X4="3548" Y1="2353" Y2="2353" Y3="2402" Y4="2402"/>
+    <FrameRect X1="421498" X2="460542" X3="460542" X4="421498" Y1="45083" Y2="45083" Y3="84173" Y4="84173"/>
+    <DefectRect X1="456988" X2="459407" X3="459407" X4="456988" Y1="60116" Y2="60116" Y3="60604" Y4="60604"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-6" Y="6"/>
+    <DefectPos X1="3558" X2="3581" X3="3581" X4="3558" Y1="2359" Y2="2359" Y3="2368" Y4="2368"/>
+    <DefectPos X1="3624" X2="3646" X3="3646" X4="3624" Y1="2359" Y2="2359" Y3="2368" Y4="2368"/>
+    <DefectPos X1="3689" X2="3711" X3="3711" X4="3689" Y1="2359" Y2="2359" Y3="2368" Y4="2368"/>
+    <DefectPos X1="3753" X2="3776" X3="3776" X4="3753" Y1="2359" Y2="2359" Y3="2368" Y4="2368"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <BridgeDirection>1</BridgeDirection>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>10</PassDefectType>
+    <PassDefect3DType>10</PassDefect3DType>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect3D>
+
+</InspData>

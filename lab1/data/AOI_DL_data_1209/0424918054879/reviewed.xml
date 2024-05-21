@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<InspData>
+
+  <ConfigInfo>
+    <Inspector>MV-6DL</Inspector>
+    <DefectPath>D:/PcbModel</DefectPath>
+    <IsSaveOverKill>TRUE</IsSaveOverKill>
+    <UserID>master</UserID>
+  </ConfigInfo>
+
+  <BoardInfo>
+    <Model>12113504-00-A0-B</Model>
+    <SerialNo>0424918054879</SerialNo>
+    <RepSerialNo>0424918054879</RepSerialNo>
+    <BoardSide>0</BoardSide>
+    <CarrierID>None</CarrierID>
+    <LotID/>
+    <ComputerName>MV-6DLOMNI</ComputerName>
+    <BoardCount>35832</BoardCount>
+    <ModuleCount>3</ModuleCount>
+    <InspStartTime>20181206;233519</InspStartTime>
+    <IsGood>1</IsGood>
+    <IsInspectGood>0</IsInspectGood>
+  </BoardInfo>
+
+  <DefectInfo>
+    <InspStartTime>2018-12-06 23:35:19</InspStartTime>
+    <InspEndTime>2018-12-06 23:35:23</InspEndTime>
+    <OperatorEndTime>2018-12-06 23:35:27</OperatorEndTime>
+    <RepairEndTime>2018-12-06 23:37:57</RepairEndTime>
+    <InspResult>1</InspResult>
+    <BoardSide>0</BoardSide>
+  </DefectInfo>
+
+  <DefectCount>
+    <Mounting>0</Mounting>
+    <Solder>6</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>0</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ChipColorInsp>0</ChipColorInsp>
+    <ICSolder>0</ICSolder>
+    <ContoursFind>0</ContoursFind>
+  </DefectCount>
+
+  <InspCount>
+    <Part>257</Part>
+    <Frame>5</Frame>
+    <Window>1129</Window>
+    <Mounting>319</Mounting>
+    <Solder>509</Solder>
+    <Bridge>32</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>179</Color>
+    <Height>90</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ChipColorInsp>0</ChipColorInsp>
+    <ICSolder>0</ICSolder>
+    <ContoursFind>0</ContoursFind>
+    <PinHole>0</PinHole>
+    <SkipInfo>0</SkipInfo>
+  </InspCount>
+
+  <ModuleResult>
+    <Module IsSkiped="0" ModuleId="0" Result="0"/>
+  </ModuleResult>
+
+  <Defect>
+    <Overkill>1</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>U12</RefId>
+    <FrameId>3</FrameId>
+    <WindowId>0</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>10498629-00</PartNumber>
+    <PartID>1D1002B2-411F-4c18-88C0-C9FD4ECBA6A5</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VD3747680-CF94-4b3a-9D2A-8B64A2E6DD63</VirtualRefID>
+    <WindowRefID>_SLD_511_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <PartRect X1="896" X2="1103" X3="1103" X4="896" Y1="1777" Y2="1777" Y3="1924" Y4="1924"/>
+    <WindowRect X1="900" X2="921" X3="921" X4="900" Y1="1800" Y2="1800" Y3="1821" Y4="1821"/>
+    <FrameRect X1="393346" X2="432389" X3="432389" X4="393346" Y1="56050" Y2="56050" Y3="95140" Y4="95140"/>
+    <DefectRect X1="402356" X2="402559" X3="402559" X4="402356" Y1="76905" Y2="76905" Y3="77110" Y4="77110"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="8"/>
+    <DefectPos X1="900" X2="921" X3="921" X4="900" Y1="1810" Y2="1810" Y3="1821" Y4="1821"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>5</PassDefectType>
+    <PassDefect3DType/>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect>
+
+  <Defect>
+    <Overkill>1</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>U12</RefId>
+    <FrameId>3</FrameId>
+    <WindowId>1</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>10498629-00</PartNumber>
+    <PartID>1D1002B2-411F-4c18-88C0-C9FD4ECBA6A5</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V4EBF7610-5541-4cd0-90F9-8EDB607F94C0</VirtualRefID>
+    <WindowRefID>_SLD_512_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <PartRect X1="896" X2="1103" X3="1103" X4="896" Y1="1777" Y2="1777" Y3="1924" Y4="1924"/>
+    <WindowRect X1="902" X2="923" X3="923" X4="902" Y1="1841" Y2="1841" Y3="1861" Y4="1861"/>
+    <FrameRect X1="393346" X2="432389" X3="432389" X4="393346" Y1="56050" Y2="56050" Y3="95140" Y4="95140"/>
+    <DefectRect X1="402371" X2="402581" X3="402581" X4="402371" Y1="76506" Y2="76506" Y3="76703" Y4="76703"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="8"/>
+    <DefectPos X1="902" X2="923" X3="923" X4="902" Y1="1851" Y2="1851" Y3="1861" Y4="1861"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>5</PassDefectType>
+    <PassDefect3DType/>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect>
+
+  <Defect>
+    <Overkill>1</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>U12</RefId>
+    <FrameId>3</FrameId>
+    <WindowId>5</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>10498629-00</PartNumber>
+    <PartID>1D1002B2-411F-4c18-88C0-C9FD4ECBA6A5</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>V23FD9081-D94E-4491-AA76-9DC39816D0F6</VirtualRefID>
+    <WindowRefID>_SLD_513_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <PartRect X1="896" X2="1103" X3="1103" X4="896" Y1="1777" Y2="1777" Y3="1924" Y4="1924"/>
+    <WindowRect X1="900" X2="921" X3="921" X4="900" Y1="1881" Y2="1881" Y3="1901" Y4="1901"/>
+    <FrameRect X1="393346" X2="432389" X3="432389" X4="393346" Y1="56050" Y2="56050" Y3="95140" Y4="95140"/>
+    <DefectRect X1="402349" X2="402559" X3="402559" X4="402349" Y1="76104" Y2="76104" Y3="76301" Y4="76301"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="8"/>
+    <DefectPos X1="900" X2="921" X3="921" X4="900" Y1="1891" Y2="1891" Y3="1901" Y4="1901"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>5</PassDefectType>
+    <PassDefect3DType/>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect>
+
+  <Defect>
+    <Overkill>1</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>U12</RefId>
+    <FrameId>3</FrameId>
+    <WindowId>6</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>10498629-00</PartNumber>
+    <PartID>1D1002B2-411F-4c18-88C0-C9FD4ECBA6A5</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VA876F877-ADA7-48e5-A695-26985C8D8E23</VirtualRefID>
+    <WindowRefID>_SLD_514_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <PartRect X1="896" X2="1103" X3="1103" X4="896" Y1="1777" Y2="1777" Y3="1924" Y4="1924"/>
+    <WindowRect X1="1078" X2="1098" X3="1098" X4="1078" Y1="1802" Y2="1802" Y3="1822" Y4="1822"/>
+    <FrameRect X1="393346" X2="432389" X3="432389" X4="393346" Y1="56050" Y2="56050" Y3="95140" Y4="95140"/>
+    <DefectRect X1="404128" X2="404331" X3="404331" X4="404128" Y1="76891" Y2="76891" Y3="77096" Y4="77096"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="8"/>
+    <DefectPos X1="1078" X2="1098" X3="1098" X4="1078" Y1="1812" Y2="1812" Y3="1822" Y4="1822"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>5</PassDefectType>
+    <PassDefect3DType/>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect>
+
+  <Defect>
+    <Overkill>1</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>U12</RefId>
+    <FrameId>3</FrameId>
+    <WindowId>7</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>10498629-00</PartNumber>
+    <PartID>1D1002B2-411F-4c18-88C0-C9FD4ECBA6A5</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VA5D83623-2837-43a1-9B2F-55FDCB7FE062</VirtualRefID>
+    <WindowRefID>_SLD_515_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <PartRect X1="896" X2="1103" X3="1103" X4="896" Y1="1777" Y2="1777" Y3="1924" Y4="1924"/>
+    <WindowRect X1="1079" X2="1100" X3="1100" X4="1079" Y1="1842" Y2="1842" Y3="1862" Y4="1862"/>
+    <FrameRect X1="393346" X2="432389" X3="432389" X4="393346" Y1="56050" Y2="56050" Y3="95140" Y4="95140"/>
+    <DefectRect X1="404143" X2="404353" X3="404353" X4="404143" Y1="76492" Y2="76492" Y3="76689" Y4="76689"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="8"/>
+    <DefectPos X1="1079" X2="1100" X3="1100" X4="1079" Y1="1852" Y2="1852" Y3="1862" Y4="1862"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>5</PassDefectType>
+    <PassDefect3DType/>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect>
+
+  <Defect>
+    <Overkill>1</Overkill>
+    <DefectTypeString>InsufficientSolder</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>U12</RefId>
+    <FrameId>3</FrameId>
+    <WindowId>8</WindowId>
+    <IsImportantWindow>0</IsImportantWindow>
+    <PartNumber>10498629-00</PartNumber>
+    <PartID>1D1002B2-411F-4c18-88C0-C9FD4ECBA6A5</PartID>
+    <WindowType>2</WindowType>
+    <ViewType>1</ViewType>
+    <PartGrabType>-1</PartGrabType>
+    <Reviewed>2</Reviewed>
+    <GroupDefectInfo>1</GroupDefectInfo>
+    <VirtualRefID>VCE709283-8774-493d-B9AF-613F1FCAB6E0</VirtualRefID>
+    <WindowRefID>_SLD_516_</WindowRefID>
+    <ResultValue>0.000000</ResultValue>
+    <CameraNo>-1</CameraNo>
+    <PartRect X1="896" X2="1103" X3="1103" X4="896" Y1="1777" Y2="1777" Y3="1924" Y4="1924"/>
+    <WindowRect X1="1077" X2="1098" X3="1098" X4="1077" Y1="1882" Y2="1882" Y3="1902" Y4="1902"/>
+    <FrameRect X1="393346" X2="432389" X3="432389" X4="393346" Y1="56050" Y2="56050" Y3="95140" Y4="95140"/>
+    <DefectRect X1="404121" X2="404331" X3="404331" X4="404121" Y1="76090" Y2="76090" Y3="76287" Y4="76287"/>
+    <AngleOffset>0.00</AngleOffset>
+    <Offset X="-2" Y="8"/>
+    <DefectPos X1="1077" X2="1098" X3="1098" X4="1077" Y1="1892" Y2="1892" Y3="1902" Y4="1902"/>
+    <Viewer3DMaxRange>0</Viewer3DMaxRange>
+    <ViewerDirection>5</ViewerDirection>
+    <WindowAngle>0</WindowAngle>
+    <DefectType></DefectType>
+    <Defect3DType></Defect3DType>
+    <PassDefectType>5</PassDefectType>
+    <PassDefect3DType/>
+    <DefectPins></DefectPins>
+    <OverKillPins></OverKillPins>
+    <IsChanged>1</IsChanged></Defect>
+
+</InspData>

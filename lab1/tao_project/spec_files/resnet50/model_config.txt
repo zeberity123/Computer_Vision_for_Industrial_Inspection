@@ -1,0 +1,8 @@
+imodel_config {
+  arch: "<<<<FIXME>>>>"
+  n_layers: <<<<FIXME>>>>
+  freeze_blocks: 0
+  use_batch_norm: True
+  input_image_size: "3,224,224"
+}
+##################################################
